@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(name='GraphBTC',
-      version='1.0',
+      version='1.1',
       description='Python package containing Bitcoin utilities including blockchain parser, script deciphering, and others',
       author='Mark Bentivegna',
       author_email='markbentivegna@gmail.com',
