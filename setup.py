@@ -5,7 +5,7 @@ from distutils.core import setup
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
-setup(name='BitcoinPy',
+setup(name='BTCPy',
       version='1.0',
       description='Python package containing Bitcoin utilities including blockchain parser, script deciphering, and others',
       author='Mark Bentivegna',
