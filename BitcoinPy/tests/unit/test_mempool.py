@@ -3,7 +3,7 @@ as expected. For more details, see BitcoinGraph white paper"""
 from binascii import a2b_hex
 from io import BytesIO
 import unittest
-from BlockchainParser.models.Mempool import Mempool
+from BitcoinPy.models.Mempool import Mempool
 
 
 class MempoolTest(unittest.TestCase):

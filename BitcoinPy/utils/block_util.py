@@ -6,7 +6,7 @@ import binascii
 import struct
 import base58
 import bech32
-from BlockchainParser.utils import opcodes
+from BitcoinPy.utils import opcodes
 
 
 def uint1(stream):

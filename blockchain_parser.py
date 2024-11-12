@@ -2,7 +2,7 @@
 white paper"""
 
 import argparse
-from BlockchainParser.models.BlockchainParser import BlockchainParser
+from BitcoinPy.models.BlockchainParser import BlockchainParser
 
 parser = argparse.ArgumentParser(
     prog='BitcoinParser',

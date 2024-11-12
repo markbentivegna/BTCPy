@@ -1,6 +1,6 @@
 """Transaction inputs are spenders of Bitcoin transactions. For more details, see
 BitcoinGraph white paper"""
-from BlockchainParser.utils import block_util
+from BitcoinPy.utils import block_util
 
 
 class TransactionInput:

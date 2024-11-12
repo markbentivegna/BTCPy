@@ -1,8 +1,8 @@
-from BlockchainParser.models.BlockchainParser import BlockchainParser
-from BlockchainParser.models.Block import Block
-from BlockchainParser.models.BlockHeader import BlockHeader
-from BlockchainParser.models.Transaction import Transaction
-from BlockchainParser.models.TransactionInput import TransactionInput
-from BlockchainParser.models.TransactionOutput import TransactionOutput
-from BlockchainParser.models.TransactionWitness import TransactionWitness
-# from BlockchainParser.utils import block_util, opcodes
+from BitcoinPy.models.BlockchainParser import BlockchainParser
+from BitcoinPy.models.Block import Block
+from BitcoinPy.models.BlockHeader import BlockHeader
+from BitcoinPy.models.Transaction import Transaction
+from BitcoinPy.models.TransactionInput import TransactionInput
+from BitcoinPy.models.TransactionOutput import TransactionOutput
+from BitcoinPy.models.TransactionWitness import TransactionWitness
+# from BitcoinPy.utils import block_util, opcodes
